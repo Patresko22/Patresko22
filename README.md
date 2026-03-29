@@ -37,6 +37,6 @@
 ## Connect With Me
 
 - 💼 LinkedIn: [Patrik Samec](https://www.linkedin.com/in/patrik-samec-41a26932a/)
-- 💻 GitHub: [TVOJ-GITHUB-USERNAME](https://github.com/Patresko22)
+- 💻 GitHub: [Patresko22](https://github.com/Patresko22)
 
 <br>
