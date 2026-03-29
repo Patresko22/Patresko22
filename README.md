@@ -1,13 +1,19 @@
-<h1 align="center">Patrik Samec</h1>
-<p align="center">
-  Developer interested in Java, frontend development, and building practical projects with real-world use.
-</p>
+<h1 align="center">Hey there 👋 I'm Patrik </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=patriksamec&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  Computer Science student at <b>FRI UNIZA</b>, focused on Java, web technologies, and building practical digital solutions.
 </p>
 
----
+<br>
+
+## About Me
+
+- 🎓 Studying **Computer Science at FRI UNIZA**
+- 💻 Working mainly with **Java**, **JavaScript**, and modern web technologies
+- ⚙️ Interested in building practical and functional projects
+- 🔐 Curious about security systems, automation, and real-world digital solutions
+
+<br>
 
 ## Tech Stack
 
@@ -17,34 +23,20 @@
   </a>
 </p>
 
----
+<br>
 
-## GitHub Stats
+## Currently Learning
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=patriksamec&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriksamec&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+- Java and object-oriented programming
+- React and modern web development
+- UI design and clean project structure
+- Practical software development
 
----
+<br>
 
-## Currently Working On
+## Connect With Me
 
-- Java projects and university assignments
-- Frontend and React websites
-- Practical web solutions
-- Security-related tech and real-world systems
+- 💼 LinkedIn: [Patrik Samec](https://www.linkedin.com/in/patrik-samec-41a26932a/)
+- 💻 GitHub: [TVOJ-GITHUB-USERNAME](https://github.com/Patresko22)
 
----
-
-## About Me
-
-- Focused on clean and practical development
-- Interested in Java, web technologies, and UI
-- Building projects that combine software with real use
-
----
-
-## Contact
-
-- 🌐 Website: https://sabanet.sk
+<br>
