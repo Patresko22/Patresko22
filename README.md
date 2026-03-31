@@ -25,18 +25,10 @@
 
 <br>
 
-## Currently Learning
-
-- Java and object-oriented programming
-- React and modern web development
-- UI design and clean project structure
-- Practical software development
-
-<br>
-
 ## Connect With Me
 
 - 💼 LinkedIn: [Patrik Samec](https://www.linkedin.com/in/patrik-samec-41a26932a/)
 - 💻 GitHub: [Patresko22](https://github.com/Patresko22)
+- ⏳ Web: [Sabanet](https://sabanet.sk)
 
 <br>
